@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
 
     public void init()
     {
-        Toast.makeText(getApplicationContext(),"Demo",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"Demo",Toast.LENGTH_LONG).show();//Toast message
 
     }
 
